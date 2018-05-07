@@ -9,3 +9,5 @@ this is committed changes 3
 >>>>>>> newbranch1
 
 message 5 in master branch
+
+message 5 in newbranch2 branch
