@@ -1,4 +1,11 @@
 this is first text message change
 this is committed changes
 this is committed changes 2
+<<<<<<< HEAD
 this message 4 in master branch 
+=======
+
+this is committed changes 3
+>>>>>>> newbranch1
+
+message 5 in master branch
